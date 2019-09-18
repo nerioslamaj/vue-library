@@ -51,5 +51,20 @@
   "browserslist": [
     "> 1%",
     "last 2 versions"
-  ]
+  ],
+  "description": "## Project setup ``` npm install ```",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nerioslamaj/vue-library.git"
+  },
+  "keywords": [
+    "vue",
+    "library"
+  ],
+  "author": "Nerios Lamaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nerioslamaj/vue-library/issues"
+  },
+  "homepage": "https://github.com/nerioslamaj/vue-library#readme"
 }
